@@ -2,12 +2,6 @@
 
 Aplikasi monitoring waktu belajar dengan teknik **pomodoro**.
 
-## Install
-
-```shell
-git clone https://github.com/Cool-Byte01/pyproject/pomodoro
-```
-
 ## Fitur
 
 1. **Waktu Belajar**: Menghitung waktu belajar selama 25 menit.
